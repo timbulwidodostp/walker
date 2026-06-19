@@ -1,6 +1,8 @@
 # walker
 Bayesian regression with random walk coefficients Use walker With (In) R Software
 
+https://www.youtube.com/watch?v=kiN98pkbTuY
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
